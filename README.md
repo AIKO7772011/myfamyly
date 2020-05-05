@@ -15,3 +15,6 @@ https://www.w3schools.com/html/tryit.asp?filename=tryhtml_images_background3
 
 2.1 Таблицы
 2.2 
+
+ссылка:
+http://stepkinblog.ru/css/sozdanie-sajta-s-nulya-na-html-css-praktika-po-projdennomu-materialu.html/
