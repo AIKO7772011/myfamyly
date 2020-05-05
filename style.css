@@ -32,7 +32,7 @@ font: 18px Verdana, Arial, Helvetica, sans-serif;
 color:#ccc;
 border-bottom:1px dotted #ccc;
 }
- 
+
 .logo
 {
 margin:0 auto;
@@ -40,7 +40,7 @@ width:200px;
 margin-top:30px;
 margin-bottom:30px;
 }
- 
+
 .logo img
 {
 -moz-border-radius: 200px; /* Firefox */
@@ -51,7 +51,7 @@ margin-bottom:30px;
 -icab-border-radius: 200px; /* Icab */
 border-radius: 200px; /* CSS3 */
 }
- 
+
 .content
 {
 width:700px;
@@ -73,7 +73,7 @@ font: 14px Verdana, Arial, Helvetica, sans-serif;
 color:#444;
 text-indent:20px;
 }
- 
+
 .footer
 {
 width:100%;
