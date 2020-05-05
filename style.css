@@ -2,7 +2,11 @@
 #header{
     background: #D2E4AF url(tmp_logo.png) no-repeat 10% 50%
     }
-
+    #header h1{
+        color: orange;
+        text-align: center;
+        text-shadow: 0 0 2px blue
+       }
 body {
     margin: 0 auto;
     background: #FFE4E1;
