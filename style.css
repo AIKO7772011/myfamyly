@@ -21,3 +21,10 @@ p {
     font-weight: bold;
     color: white;
 }
+#sidebar ul{
+    list-style: none
+   }
+   #sidebar ul li{
+    border-bottom: 2px solid orange;
+    width: 55px
+   }
